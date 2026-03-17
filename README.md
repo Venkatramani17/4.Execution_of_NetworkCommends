@@ -95,32 +95,32 @@ s.close()
 
 ## Output
 tracert:
-
-![alt text](<Screenshot 2026-03-17 194433.png>)
+<img width="1054" height="702" alt="image" src="https://github.com/user-attachments/assets/786e23fa-9ec2-47e0-b8ba-662a39eccdfc" />
 
 ping:
+<img width="1182" height="525" alt="image" src="https://github.com/user-attachments/assets/52a49ac4-4e48-461f-bd1b-254ead9f8b7f" />
 
-![alt text](<Screenshot 2026-03-17 194443.png>)
 
 nslookup:
-
-![alt text](<Screenshot 2026-03-17 194451.png>)
+<img width="952" height="462" alt="image" src="https://github.com/user-attachments/assets/56eb53a4-8e5f-43a8-8301-f20330efb427" />
 
 netstat:
+<img width="927" height="728" alt="image" src="https://github.com/user-attachments/assets/2d1da0ea-c349-4314-82d2-f46fa4f2e6b0" />
 
-![alt text](<Screenshot 2026-03-17 194519.png>)
 
 ipconfig:
 
-![alt text](<Screenshot 2026-03-17 194643.png>)
+<img width="902" height="764" alt="image" src="https://github.com/user-attachments/assets/fcc68807-ef8b-4987-b788-0c5c46a79fdf" />
+
 
 getmac:
 
-![alt text](<Screenshot 2026-03-17 194657.png>)
+<img width="945" height="306" alt="image" src="https://github.com/user-attachments/assets/f53eeb3c-9d83-4fc5-9478-a124a668de8c" />
 
 arp:
 
-![alt text](<Screenshot 2026-03-17 194735.png>)
+<img width="916" height="739" alt="image" src="https://github.com/user-attachments/assets/29dd9559-e1a8-45f8-9d89-d72502d5b14f" />
+
 
 
 ## Result
